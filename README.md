@@ -16,7 +16,9 @@
 2. Then run `nodemon` inside either the `<chapter>_js` or `<chapter>_rs` folder.
 
 ---
+
 *NOTE: ✔️  = DONE | ☢️ = WORK-IN-PROGRESS*
+
 ---
 
 ## Languages Suported:
