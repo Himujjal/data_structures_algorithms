@@ -1,8 +1,9 @@
-# Data Strucutures and Algorithms Multiple Languages 
+# Data Structures and Algorithms in Multiple Languages
 
 ## This Repository is for two purposes.
-1. To Learn Data Structures and Algorithms
-2. To Learn Rust and how it should be used.
+
+1. To Learn Data Structures and Algorithms for Interview and otherwise.
+2. To Learn Languages like Rust and getting a good grasp on them.
 
 ## Pre-requirements:
 
@@ -13,18 +14,18 @@
 ## Procedure for creating a new chapter:
 
 1. Create a new chapter using `createChap.ps1 <chapter_name>`.
-2. Then run `nodemon` inside either the `<chapter>_js` or `<chapter>_rs` folder.
+2. Then run `cd <chapter_name>`. Then `.\start.ps1 <language_extension>` (e.g. `.\start.ps1 js` for JavaScript or `.\start.ps1` for Rust)
 
 ---
 
-*NOTE: ✔️  = DONE | ☢️ = WORK-IN-PROGRESS*
+_NOTE: ✔️ = DONE | ☢️ = WORK-IN-PROGRESS_
 
 ---
 
 ## Languages Suported:
 
-1. ☢️  JavaScript (NodeJS)
-2. ☢️  Rust
+1. ☢️ JavaScript (NodeJS)
+2. ☢️ Rust
 
 ## Chapters:
 
